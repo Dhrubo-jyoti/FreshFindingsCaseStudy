@@ -1,2 +1,2 @@
 # FreshFindingsCaseStudy
-This is the solution prepared by me for Delta 2.0 case study organised by Shaheed Rajguru College of Applied Sciences for Women, University of Delhi
+To solve the given problem statement i have used PANDAS, SEABORN library of PYTHON for DATA CLEANING, VISUALISATION and EDA. I have also used MS EXCEL for preparing PIVOT TABLES & PIVOT CHARTS. Finally to compile the final solution i have used MS POWERPOINT.
